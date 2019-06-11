@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="B-C-icons-2016-09-07-a-under-construction-desktop.svg">
+  <title
+     id="title3010">Wikidata logo under construction sign wallpaper</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3829">
+      <stop
+         id="stop3831"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0;" />
+      <stop
+         id="stop3833"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3801">
+      <stop
+         style="stop-color:#ffee00;stop-opacity:1;"
+         offset="0"
+         id="stop3803" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop3805" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3794">
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         rx="3"
+         ry="3"
+         y="-127.4761"
+         x="436.23972"
+         height="90.695999"
+         width="90.696007"
+         id="rect3796"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3801"
+       id="radialGradient3809"
+       cx="805.38257"
+       cy="-731.90198"
+       fx="2725.3853"
+       fy="-731.90198"
+       r="1920"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="matrix(-0.09878698,-0.36867802,0.56906196,-0.15247969,1394.471,738.81266)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3829"
+       id="radialGradient3827"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.39596583,0.95622473,0,1580.9297,719.9837)"
+       spreadMethod="pad"
+       cx="319.19427"
+       cy="-55.245365"
+       fx="2239.1951"
+       fy="-55.245365"
+       r="1920" />
+    <filter
+       inkscape:collect="always"
+       id="filter3859">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="16.476002"
+         id="feGaussianBlur3861" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.49803922"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.17604167"
+     inkscape:cx="-746.12279"
+     inkscape:cy="630.99342"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1871"
+     inkscape:window-height="1176"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showborder="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Wikidata logo under construction sign wallpaper</dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC-BY-SA-3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thiemo Mättig</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2016-09-09</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#radialGradient3809);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3005"
+       width="1920"
+       height="1080"
+       x="0"
+       y="0" />
+    <rect
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,8,12)"
+       rx="15.718414"
+       style="fill:none;stroke:#000000;stroke-width:125.74731445;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3859)"
+       id="rect3837"
+       width="475.19913"
+       height="475.1991"
+       x="1069.7963"
+       y="-781.32001"
+       ry="15.718414" />
+    <g
+       id="g3025"
+       transform="matrix(5.2394713,0,0,5.2394713,-989.11037,-1089.7968)">
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         rx="3"
+         style="fill:none;stroke:#ffee00;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3780"
+         width="90.696007"
+         height="90.695999"
+         x="484.74463"
+         y="-135.53351"
+         ry="3" />
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         rx="3"
+         ry="3"
+         y="-135.53351"
+         x="484.74463"
+         height="90.695999"
+         width="90.696007"
+         id="rect3782"
+         style="fill:#ffee00;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(39.995709,28.600704)"
+         clip-path="url(#clipPath3794)"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3784"
+         d="m 344.3388,316.04491 110.99889,0"
+         style="fill:none;stroke:#000000;stroke-width:67.16683197;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.0300097, 4.0300097, 12.0900291, 4.0300097, 12.0900291, 4.0300097, 4.0300097, 4.0300097, 4.0300097, 4.0300097, 12.0900291, 4.0300097, 4.0300097, 4.0300097, 12.0900291, 4.0300097, 4.0300097, 4.0300097, 4.0300097, 4.0300097;stroke-dashoffset:0" />
+      <text
+         transform="scale(0.80057763,1.2490981)"
+         xml:space="preserve"
+         style="font-size:12.81030273px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold"
+         x="547.97107"
+         y="230.54501"
+         id="text3970"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           x="547.97107"
+           y="230.54501"
+           id="tspan3972">UNDER</tspan><tspan
+           id="tspan3974"
+           sodipodi:role="line"
+           x="547.97107"
+           y="243.35532">CONSTRUCTION</tspan></text>
+    </g>
+    <rect
+       y="0"
+       x="0"
+       height="1080"
+       width="1920"
+       id="rect3825"
+       style="fill:url(#radialGradient3827);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+</svg>
