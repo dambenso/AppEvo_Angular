@@ -1,0 +1,12 @@
+<div id="container">
+    <div class='iconwrap'>
+        Please select order type:<br/>
+        <div id='selwrap'>
+            <div id='pickupdiv' class='wrapit' [ngClass]="{'selClass': dpickup==true}" (click)="dpickup=!dpickup;testSib('p')"><img src="../../assets/images/shopping-bag.png" /><br/>Pickup</div>
+            <div id='deliverdiv' class='wrapit' [ngClass]="{'selClass': ddelivery==true}" (click)="ddelivery=!ddelivery;testSib('d')"><img src="../../assets/images/delivery-truck.png"><br/>Delivery</div>
+        </div>
+    </div>
+    <div class='linktxt'>
+        <button kendoButton routerLink="/categoryselect" routerLinkActive="active">START YOUR ORDER</button><br/> Already a member? <a href="">Login!</a>
+    </div>
+</div>

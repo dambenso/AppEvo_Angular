@@ -1,0 +1,56 @@
+.app_evo-sidebar-menu{
+    height: 100%;
+}
+.app_evo-sidebar-nav-menu{
+    background: #1a2935;
+    height: 100%;
+    width: 100%;
+}
+.app_evo-sidebar-menu {
+    list-style-type: none;
+    padding: 0;
+}
+.app_evo-sidebar-menu-item {
+    padding: 10px 5px;
+    border-width: thin;
+    border-bottom-style: outset;
+    border-color: #3a709c;
+}
+.app_evo-sidebar-menu-item:not(:first-child):hover {
+    background-color: #4e97d2;
+}
+.app_evo-sidebar-menu-image {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    vertical-align: middle;
+    padding: 5px 3px;
+}
+.app_evo-sidebar-menu-text {
+  color: #fff;
+  font-weight: 500;
+  vertical-align: middle;
+  font-size: 15px;
+  padding-left: 5px;
+}
+
+// For the expand collapse arrow...
+.app_evo-sidebar-menu-item:first-child {
+    height: 40px;
+    padding-right: 15px;
+}
+  
+.app_evo-sidebar-menu-expand-collpase{
+    float: right;
+    height: 28px;
+    width: 28px;
+}
+.app_evo-sidebar-menu-expand-collpase-icon {
+   vertical-align: top;
+}
+.app_evo-sidebar-menu-activelink {
+    background-color: #4e97d2;
+}
+.app_evo-sidebar-menu-item>a:hover{
+    text-decoration: none;
+}

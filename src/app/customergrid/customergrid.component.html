@@ -1,0 +1,15 @@
+<div class="brad">
+    <div style="width:100%">
+        <form #myForm="ngForm">
+            <kendo-grid id="grid" [data]="this.CUSTD$" [selectable]="true" style="width: 100%" [style.maxHeight.px]="480" [pageSize]="15" [scrollable]="true">
+                <kendo-grid-column field="CustNum" title="ID"></kendo-grid-column>
+                <kendo-grid-column field="Name" title="Name"></kendo-grid-column>
+                <kendo-grid-column field="Address" title="Address"></kendo-grid-column>
+                <kendo-grid-column field="City" title="City"></kendo-grid-column>
+                <kendo-grid-column field="State" title="State"></kendo-grid-column>
+                <kendo-grid-column field="PostalCode" title="Zip"></kendo-grid-column>
+                <kendo-grid-column field="Country" title="Country"></kendo-grid-column>
+            </kendo-grid>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+@import "~@progress/kendo-theme-default/scss/all";
+.check-icon-class:before {
+    content: "\e118" !important;
+    /* Adds a glyph using the Unicode character number */
+}
+
+.test:before {
+    content: "\e043" !important;
+}
+
+.messages-icon-class:before {
+    content: "\e655" !important;
+    /* Adds a glyph using the Unicode character number */
+}
+
+.my-custom-icon-class:before {
+    content: "\e13a";
+    /* Adds a glyph using the Unicode character number */
+}

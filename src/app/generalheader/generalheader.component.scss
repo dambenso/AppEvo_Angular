@@ -1,0 +1,35 @@
+.wrapperClass {
+    margin: 15px;
+    border-bottom: 1px solid #000;
+    width: 95%;
+}
+
+.titleClass {
+    display: inline-flex;
+    width: 100%;
+}
+
+.titletextClass {
+    width: 50%;
+}
+
+.smallFont {
+    font-size: 8px;
+    padding: 2px;
+}
+
+.actionClass {
+    width: 50%;
+    float: right;
+    vertical-align: bottom;
+    padding-top: 40px;
+    padding-left: 80%;
+}
+
+a {
+    padding: 10px;
+    white-space: nowrap;
+    font-size: 8px;
+    color: #4C78E4;
+    cursor: pointer;
+}

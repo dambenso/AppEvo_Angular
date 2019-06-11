@@ -1,0 +1,79 @@
+.k-grid tr.k-state-selected,
+.k-grid .k-alt.k-state-selected {
+    background-color: #ebf5fb;
+}
+.k-grid tr.k-state-selected td {
+    border-color: #add5f0;
+    border-width: thin;
+    border-top-style: solid;
+}
+.k-grid .k-grid-header,
+.k-grid .k-grid-header .k-header {
+    background: #f6f6f6;
+    font-weight: 600;
+}
+.k-grid .k-grid-header,
+.k-grid .k-grid-header .k-header,
+.k-grid td {
+    border-style: none;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0,0,0,.08);
+}
+.k-grid-toolbar {
+    text-align: right;
+}
+.k-grid .k-i-sort-desc-sm::before {
+    content: "\e013";
+    vertical-align: middle;
+    color: #2f3e4e
+}
+.k-grid .k-i-sort-asc-sm::before {
+    content: "\e015";
+    vertical-align: middle;
+    color: #2f3e4e;
+}
+.k-alt,
+.k-grid tr.k-alt,
+.k-grid-toolbar,
+.k-pager-wrap,
+.k-input,
+.k-dropdown .k-dropdown-wrap,
+.k-dropdown .k-dropdown-wrap:hover {
+    background-color: #fff;
+    background-image: none;
+}
+.k-checkbox:checked + .k-checkbox-label:before,
+.k-radio:checked + .k-radio-label:after {
+    background-color: #207bcc;
+    border-color: transparent;
+}
+.k-radio:checked+.k-radio-label:before {
+    border-color:#207bcc;
+    background-color: transparent;
+}
+.k-panelbar .k-item .k-link.k-state-focused,
+.k-grid td.k-state-focused,
+.k-radio:checked:focus+.k-radio-label:before {
+    box-shadow: none;
+}
+.k-button.k-primary,
+.k-button.k-primary:hover {
+    background-color: #317abd;
+    border-color: transparent;
+}
+.k-window-titlebar,
+.k-dialog-titlebar {
+    background-color: #2f3e4e;
+}
+.k-popup {
+    background-color: #fff;
+}
+.k-list .k-item.k-state-selected,
+.k-list .k-item:hover.k-state-selected {
+    color: #fff;
+    background-color: #317abd;
+} 
+.k-list .k-item:hover {
+    background-color: #add5f0;
+}

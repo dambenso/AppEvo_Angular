@@ -1,0 +1,20 @@
+<div id="app_evo-sidebar-menu" class="app_evo-sidebar-menu">
+    <nav class="app_evo-sidebar-nav-menu">
+        <ul class="app_evo-sidebar-menu">
+            <li class="app_evo-sidebar-menu-item toggle-link">
+                <div class="app_evo-sidebar-menu-expand-collpase" (click)='toggleView()'>
+                    <img *ngIf="!isCollapsed" title="Close Menu" class="app_evo-sidebar-menu-expand-collpase-icon" src="./assets/images/menuclose.svg" />
+                    <img *ngIf="isCollapsed" title="Expand Menu" class="app_evo-sidebar-menu-expand-collpase-icon" src="./assets/images/menuopen.svg" />
+                </div>
+            </li>
+            <li class="app_evo-sidebar-menu-item" [routerLinkActive]="'app_evo-sidebar-menu-activelink'">
+                <a routerLink="customergrid">
+                    <div (click)="alertBC('Customer Grid')">
+                        <img class="app_evo-sidebar-menu-image" src="./assets/images/Dashboard.svg" />
+                        <span *ngIf="!isCollapsed" class="app_evo-sidebar-menu-text"> Customer Listing</span>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
