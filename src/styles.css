@@ -1,0 +1,182 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+.k-window-content,
+.k-dialog,
+.k-content,
+div.k-window-content {
+    padding: 0 !important;
+}
+
+
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+@font-face {
+    font-family: Metric-Thin;
+    src: url("./assets/css/fonts/Metric-Thin.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metric-Light;
+    src: url("./assets/css/fonts/Metric-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metric-Regular;
+    src: url("./assets/css/fonts/Metric-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metric-Black;
+    src: url("./assets/css/fonts/Metric-Black.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metric-SemiBold;
+    src: url("./assets/css/fonts/Metric-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Metric-Bold;
+    src: url("./assets/css/fonts/Metric-Bold.otf") format("opentype");
+}
+
+.hide {
+    display: none !important;
+}
+
+.k-dialog .k-dialog-titlebar .k-dialog-title {
+    font-size: 15px !important;
+}
+
+.k-toolbar {
+    background: none;
+    border: 0;
+}
+
+.disableScroll {
+    overflow: hidden;
+}
+
+
+/************** CSS for Actions/Replication bar menu *************************/
+
+.app_evo-actionsbar-menupanel .k-group {
+    background-color: #fff;
+    border: 0;
+}
+
+.app_evo-actionsbar-menupanel .app_evo-actionsbar-submenupanel .k-group {
+    padding-left: 1em;
+}
+
+.app_evo-actionsbar-menupanel.k-panelbar .k-group .k-item .k-link {
+    padding: 6px 12px;
+}
+
+.app_evo-actionsbar-menupanel.k-panelbar .k-state-expanded .k-header,
+.app_evo-actionsbar-menupanel.k-panelbar .k-state-expanded .k-header:hover,
+.app_evo-actionsbar-menupanel.k-panelbar .k-item>.k-link.k-state-selected,
+.app_evo-actionsbar-menupanel.k-panelbar .k-item>.k-link.k-state-selected:hover,
+.app_evo-actionsbar-menupanel.k-panelbar .k-group>.k-item>.k-link.k-state-selected {
+    color: #2d86cb;
+    background-color: #fff;
+    border-color: #fff;
+    outline: none;
+}
+
+.app_evo-actionsbar-menupanel.k-panelbar .k-item:not(.k-state-expanded)>.k-link.k-header,
+.app_evo-actionsbar-menupanel.k-panelbar .k-item:not(.k-state-expanded)>.k-link.k-header.k-state-selected:hover {
+    background-color: #fff;
+    color: black;
+}
+
+.app_evo-actionsbar-menupanel.k-panelbar .k-item .k-link .k-icon,
+.app_evo-actionsbar-menupanel.k-panelbar .k-item>.k-link.k-header.k-state-selected .k-icon,
+.app_evo-actionsbar-menupanel.k-panelbar .k-item.k-state-default>.k-link.k-header.k-state-selected,
+.app_evo-actionsbar-menupanel.k-panelbar .k-item.k-state-default>.k-link.k-header.k-state-selected:hover {
+    color: #2d86cb;
+    background-color: #fff;
+    border-color: #fff;
+    outline: none;
+}
+
+.app_evo-actionsbar-menupanel.k-panelbar .k-item .k-group .k-link.k-state-focused {
+    box-shadow: none;
+}
+
+.app_evo-actionsbar-menupanel.k-panelbar .k-item .k-link {
+    padding: 12px;
+}
+
+.app_evo-actionsbar-menupanel.k-panelbar .k-i-arrow-n:before {
+    content: "\E015"
+}
+
+.app_evo-actionsbar-menupanel.k-panelbar .k-i-arrow-s:before {
+    content: "\E014"
+}
+
+
+/************** End of CSS for Actions bar menu *************************/
+
+
+/********* Buttons *******************************/
+
+.app_evo-buttons-secondary,
+.app_evo-buttons-secondary:hover {
+    background-color: #808993;
+    background-image: none;
+    color: #fff;
+}
+
+.app_evo-buttons-greyed,
+.app_evo-buttons-greyed:hover {
+    /* background-color: #c1c3c58a;
+    background-image : none;
+    color: #c1c3c58a; */
+    background-color: transparent;
+    background-image: none;
+    color: #c1c3c5;
+    border-color: #c1c3c5;
+}
+
+.app_evo-buttons-blue,
+.app_evo-buttons-blue:hover {
+    background-color: #dce8f6 !important;
+    border-color: #317abd !important;
+    border-width: thin;
+    background-image: none;
+    color: #317abd !important;
+}
+
+.app_evo-btngroup {
+    float: right
+}
+
+.app_evo-btngroup-btn {
+    margin-left: 1em;
+}
+
+
+/************************************************/
+
+
+/***********Actions bar content Title***********/
+
+.app_evo-actions-content-title {
+    font-size: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+/**********************************************/
+
+.app_evo-form-element {
+    width: 25% !important;
+    min-width: 250px !important;
+}
