@@ -3,12 +3,16 @@
     in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 <div id="defText" class="defText">Please select a category:</div>
-
-<div class="slide">
-    <img class="dispimg" src="../../assets/images/shopping-bag.png" />
-    <img class="dispimg" src="../../assets/images/delivery-truck.png" />
-    <img class="dispimg" src="../../assets/images/shopping-bag.png" />
-    <img class="dispimg" src="../../assets/images/delivery-truck.png" />
-    <img class="dispimg" src="../../assets/images/shopping-bag.png" />
-    <img class="dispimg" src="../../assets/images/delivery-truck.png" />
+<div class="container">
+    <div *ngFor="let parentCat of pcategories" class="setcells">
+        Parent Category: {{ parentCat.value }}
+        <div *ngFor="let subCat of parentCat.items" class="dflow">
+            Category: {{ subCat.value }}
+            <div class="slide subbox">
+                <div *ngFor="let items of subCat.items" class="itembox">
+                    {{ items.ItemName }}
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

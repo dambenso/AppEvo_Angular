@@ -29,7 +29,12 @@
 a {
     padding: 10px;
     white-space: nowrap;
-    font-size: 8px;
-    color: #4C78E4;
+    font-size: 10px;
+    font-weight: bold;
+    color: #4c78e4;
     cursor: pointer;
+}
+
+.active {
+    color: #0f4ce7;
 }
